@@ -1,4 +1,5 @@
 # alerta-seism
+https://pypi.org/project/alertaseism/
 > O librarie folosiind date XML de la INFP pentru a afla magnitudinea la secunda.
 ![alt text](https://i.imgur.com/LgCqLJI.png)
 ### Exemplu:
