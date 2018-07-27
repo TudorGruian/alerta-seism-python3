@@ -22,4 +22,4 @@
     # !!! NOI NU DAM GARANTIE !!!
     
 
-abcdef
+print("Hello World!")
