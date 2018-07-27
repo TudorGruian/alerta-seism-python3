@@ -14,8 +14,8 @@ setuptools.setup(
     url="https://github.com/TudorGruian/alerta-seism-python3",
     packages=['alertaseism'],
     install_requires=[
-        "beautifulsoup4"
-        "requests"
+        "beautifulsoup4",
+        "requests",
     ],
     classifiers=(
         "Programming Language :: Python :: 3",
