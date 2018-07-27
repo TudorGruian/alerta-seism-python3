@@ -1,0 +1,8 @@
+README.md
+setup.py
+alertaseism/__init__.py
+alertaseism.egg-info/PKG-INFO
+alertaseism.egg-info/SOURCES.txt
+alertaseism.egg-info/dependency_links.txt
+alertaseism.egg-info/requires.txt
+alertaseism.egg-info/top_level.txt
