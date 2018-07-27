@@ -15,6 +15,7 @@ setuptools.setup(
     packages=['alertaseism'],
     install_requires=[
         "beautifulsoup4"
+        "requests"
     ],
     classifiers=(
         "Programming Language :: Python :: 3",
