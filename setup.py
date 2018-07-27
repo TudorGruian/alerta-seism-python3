@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="alertaseism",
-    version="0.0.1",
+    version="0.0.5",
     author="Tudor Gruian",
     author_email="gruiantudor@hotmail.com",
     description="O librarie folosiind date XML de la INFP pentru a afla magnitudinea la secunda. ",
