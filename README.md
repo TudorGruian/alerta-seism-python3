@@ -1,3 +1,5 @@
+# Discontinued
+> Datorita site-ului alerta.infp.ro/ a fost inchis. E probabil ca site-ul sa porneasca, ca in concluzie, API-ul sa functioneze din nou
 # alerta-seism
 https://pypi.org/project/alertaseism/
 > O librarie folosiind date XML de la INFP pentru a afla magnitudinea la secunda.
