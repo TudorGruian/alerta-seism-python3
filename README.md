@@ -1,6 +1,3 @@
-# Discontinued
-> Datorita site-ului alerta.infp.ro/ care a fost inchis. E probabil ca site-ul sa porneasca, ca in concluzie, API-ul sa functioneze din nou
-Cea mai buna alternativa este emergency broadcast service, suportat de pe aproape toate telefoanele de pe planeta.
 
 # alerta-seism
 https://pypi.org/project/alertaseism/
